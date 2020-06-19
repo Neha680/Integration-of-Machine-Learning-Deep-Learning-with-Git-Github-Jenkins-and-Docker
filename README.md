@@ -30,3 +30,4 @@
 ![10](https://user-images.githubusercontent.com/64469502/85157369-03a2a880-b279-11ea-806a-08178308c2ae.png)
 
 8. Create One extra job job5 for monitor : If container where app is running. fails due to any reason then this job should automatically start the container again from where the last trained model left
+![11](https://user-images.githubusercontent.com/64469502/85169531-93e8e980-b289-11ea-99f1-e6e6917473d9.png)
