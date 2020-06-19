@@ -9,10 +9,11 @@
 4.  Job1 : Pull  the Github repo automatically when some developers push repo to Github.
    ![1](https://user-images.githubusercontent.com/64469502/85112979-2a8abb80-b234-11ea-9884-9c08fe751991.png)
    ![2](https://user-images.githubusercontent.com/64469502/85113161-79d0ec00-b234-11ea-9fbf-10e670490cbb.png)
-
+   ![3](https://user-images.githubusercontent.com/64469502/85156010-1a480000-b277-11ea-888e-cb04d3d1ab81.png)
    
 
 5.  Job2 : By looking at the code or program file, Jenkins should automatically start the respective machine learning software installed interpreter install image container to deploy code  and start training( eg. If code uses CNN, then Jenkins should start the container that has already installed all the softwares required for the cnn processing).
+
 
 6. Job3 : Train your model and predict accuracy or metrics.
 
