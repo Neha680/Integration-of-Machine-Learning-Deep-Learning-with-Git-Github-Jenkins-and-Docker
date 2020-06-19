@@ -14,7 +14,7 @@
    
 
 5.  Job2 : By looking at the code or program file, Jenkins should automatically start the respective machine learning software installed interpreter install image container to deploy code  and start training( eg. If code uses CNN, then Jenkins should start the container that has already installed all the softwares required for the cnn processing).
-
+![4](https://user-images.githubusercontent.com/64469502/85156769-297b7d80-b278-11ea-8a50-b89ce7c6654e.png)
 
 6. Job3 : Train your model and predict accuracy or metrics.
 
