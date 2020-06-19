@@ -1,6 +1,7 @@
 # Integration-of-Machine-Learning-Deep-Learning-with-Git-Github-Jenkins-and-Docker
 
 1. Create container image that’s has Python3 and Keras or numpy  installed  using dockerfile
+![pic](https://user-images.githubusercontent.com/64469502/85156257-70b53e80-b277-11ea-8199-1d8e8cfc56a8.jpg)
 
 2. When we launch this image, it should automatically starts train the model in the container.
 
