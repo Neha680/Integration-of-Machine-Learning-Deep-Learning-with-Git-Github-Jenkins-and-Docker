@@ -17,14 +17,16 @@
 ![4](https://user-images.githubusercontent.com/64469502/85156769-297b7d80-b278-11ea-8a50-b89ce7c6654e.png)
 ![5](https://user-images.githubusercontent.com/64469502/85157018-80815280-b278-11ea-8768-c6f9577bc412.png)
 
-6. Job3 : Train your model and predict accuracy or metrics.
+6. Job3 : Train your model and predict accuracy or metrics, if metrics accuracy is less than 80%  , then tweak the machine learning model architecture.
 
 ![6](https://user-images.githubusercontent.com/64469502/85157053-8a0aba80-b278-11ea-8101-331868e4c761.png)
 ![7](https://user-images.githubusercontent.com/64469502/85157078-91ca5f00-b278-11ea-8f13-5cd8e2ba5d33.jpg)
+![8](https://user-images.githubusercontent.com/64469502/85157360-00a7b800-b279-11ea-8126-4f7bcfe0ae27.png)
 
 
-7. Job4 : if metrics accuracy is less than 80%  , then tweak the machine learning model architecture.
+7. Job4 : Retrain the model or notify that the best model is being created
 
-8. Job5: Retrain the model or notify that the best model is being created
+![9](https://user-images.githubusercontent.com/64469502/85157367-030a1200-b279-11ea-82b4-34d8233e6ff6.png)
+![10](https://user-images.githubusercontent.com/64469502/85157369-03a2a880-b279-11ea-806a-08178308c2ae.png)
 
-9. Create One extra job job6 for monitor : If container where app is running. fails due to any reason then this job should automatically start the container again from where the last trained model left
+8. Create One extra job job5 for monitor : If container where app is running. fails due to any reason then this job should automatically start the container again from where the last trained model left
